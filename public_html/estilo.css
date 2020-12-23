@@ -1,0 +1,146 @@
+img{
+    width: 500px;
+    height: 500px;
+    border: thin solid;
+}
+#titulo{
+    text-align: center;
+    color: black;
+    font-family: Copperplate, Copperplate Gothic Light;
+}
+#logo{
+    text-align: center;
+    font-family: Copperplate, Copperplate Gothic Light;
+    font-size: 50px;
+    border: solid;
+    
+}
+#logo2{
+    text-align: center;
+    font-family: Copperplate, Copperplate Gothic Light;
+    font-size: 50px;
+}
+p{
+    font-family: Futura, Trebuchet MS;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Futura, Trebuchet MS;
+}
+body{
+    text-align: justify;
+    background: url("fundo.jpg");
+}
+h1{
+    text-align: center;
+    font-family: Futura, Trebuchet MS;
+}
+#letra{
+    font-family: Futura, Trebuchet MS;
+}
+
+#acessorios{
+    background-image: url("fundo.jpg");
+}
+#pai{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+#carrinho{
+    height: 100px; 
+    width: 100px;
+    margin-top: 10px;
+}
+#alin{
+    display: inline-block;
+}
+#ul1{
+   border: solid;
+   text-align: center;
+}
+#li1{
+    display: inline;
+    padding: 40px;
+    justify-content: center;
+}
+div.box{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+#adm{
+    width: 300px;
+    height: 300px;
+}
+#ul2{
+    border: solid;
+    text-align: center;
+}
+#li2{
+    display: inline-block;
+    padding-right: 30px;
+    padding-left: 30px; 
+    justify-content: center;
+}
+#li3{
+    height: 40px; 
+    width: 40px;
+}
+#logob{
+    display: flex;
+    border: solid;  
+    justify-content: center;
+}
+#h{
+    font-family: Copperplate, Copperplate Gothic Light;
+    font-size: 50px;
+    text-align: center;
+}
+#bf{
+    width: 150px;
+    height: 100px;
+    border: none;
+}
+#pai2{
+    display: flex;
+}
+#img2{
+    width: 200px;
+    height: 200px;
+}
+#gif{
+    width: 1330px;
+    height: 350px;
+}
+.quant{
+    width: 45px;
+    margin-left: 25px;
+}
+.t1{
+    color: black;
+    font-family: Copperplate, Copperplate Gothic Light;
+    padding-right: 50px;
+}
+#t0{
+    color: black;
+    font-family: Copperplate, Copperplate Gothic Light;
+}
+#linha{
+    border-collapse: collapse;/* CSS2 */
+    border-bottom: 1px solid black;
+}
+#carlinha{
+    display: flex;
+}
+#linhacar2{
+    margin-left: 170px;
+}
+.sub{
+    margin-right: 20px;
+}
+#botaof{
+    margin-top: 20px;
+    width: 350px;
+}
